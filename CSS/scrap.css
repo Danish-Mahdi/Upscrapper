@@ -1,0 +1,60 @@
+*{
+    font-family:'Inter', sans-serif ;
+}
+
+.instruction{
+    margin: 25px auto;
+    max-width: 80%;
+    display: block;
+background-color: #cce5ff;
+border-radius: 5px;
+}
+.instruction p{
+    padding: 21px;
+}
+
+#cards-section h2{
+    margin-bottom: 60px;
+
+}
+
+
+#cards-section{
+    margin-top: 80px;
+}
+
+
+.material-icon{
+    margin-top: 10px;
+    width: 116px;
+    height: 126px;
+    display: block;
+}
+.cards{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 1.5em;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    background-color: #f6faf5;
+    width: 200px;
+    height: auto;
+}
+
+.card span{
+    color:  #3ab34a;
+}
+
+
+#WP{
+    color: #25D366 !important;
+}
+
+
+
+
